@@ -157,6 +157,6 @@ Open-source, free to use.
 
 ## 👨‍💻 Author
 
-Your Name Here  
+brrrezy  
 
 Star the repository ⭐ if you find it useful!
